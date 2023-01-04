@@ -4,5 +4,9 @@ My name is Brandon and I primarily work on web development projects. I also enjo
 
 If you'd like to see more about my projects and skills, you can also check out my [personal portfolio](https://brandma.dev/).
 
+Currently Learning:
+- Monorepos
+- Fastify
+
 :dog: Fun Fact: The dog in my profile picture is a dog I fostered named Max who was half Jindo half Corgi.
 
