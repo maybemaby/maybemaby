@@ -7,6 +7,8 @@ If you'd like to see more about my projects and skills, you can also check out m
 Currently Learning:
 - Monorepos
 - Fastify
+- Go
+- Nextjs 13 App Dir
 
 :dog: Fun Fact: The dog in my profile picture is a dog I fostered named Max who was half Jindo half Corgi.
 
